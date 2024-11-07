@@ -1,0 +1,16 @@
+{
+  "name": "osu-pp-theorizer",
+  "version": "1.0.0",
+  "description": "This project aims to help people theorize their account's future total PP, country ranking and global ranking (with more or less accuracy) based on imagined set plays on chosen beatmaps. It's currently planned only for osu!standard, but futures updates may include the other modes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "rosu-pp-js": "^1.1.1"
+  }
+}
